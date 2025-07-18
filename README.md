@@ -25,3 +25,7 @@ A criação de agentes de IA com personas e estilos de comunicação específico
     * `agno.agent.Agent`: Classe base para o agente.
     * `agno.models.google.Gemini`: Conector para modelos Gemini.
 * **Google Gemini API**: Para o modelo de linguagem (`gemini-2.5-flash`).
+
+## Exemplo de uso
+
+<img width="1590" height="531" alt="Image" src="https://github.com/user-attachments/assets/79b0fc2c-99cd-4acc-a528-9eb407511eeb" />
